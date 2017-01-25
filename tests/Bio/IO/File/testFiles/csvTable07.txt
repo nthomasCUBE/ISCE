@@ -1,0 +1,4 @@
+	A1	A2	A3	A4	A5	A6	A7
+R1	C1a	C1b	C1c	C1d	C1e	C1f	C1g
+R2	C2a	C2b	C2c	C2d	C2e	C2f	C2g
+R3	C3a	C3b	C3c	C3d	C3e	C3f	C3g

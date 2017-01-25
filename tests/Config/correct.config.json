@@ -1,0 +1,10 @@
+{
+    "path": {
+        "A": "/full/path/to/A/"
+    },
+    "files": {
+        "fileA": "/full/path/to/File/A",
+        "fileB": "/full/path/to/File/B",
+        "fileC": "/full/path/to/File/C"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "path": {
+        "results": "./results",
+        "speciesA": {
+            "fasta": "./data/setA",
+            "index": "tests/TestFiles/data/setA/setA.index"
+        },
+        "speciesB": {
+            "fasta": "./data/setB",
+            "index": "tests/TestFiles/data/setB/setB.index"
+        }
+    },
+    "fasta": {
+        "ignoreFiles": [""]
+    },
+    "config": {
+        "minimumNumberOfOrganismsPerGroup": 1
+    }
+}

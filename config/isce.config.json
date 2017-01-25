@@ -1,0 +1,17 @@
+{
+    "path": {
+        "results": "./results",
+        "mapping": "./mapping.config",
+        "speciesA": {
+            "fasta": "./data/speciesA/",
+            "index": "./data/speciesA/y2h.csv"
+        },
+        "speciesB": {
+            "fasta": "./data/speciesB/",
+            "index": "./data/speciesB/Plants.csv"
+        }
+    },
+    "config": {
+        "minSize": 14
+    }
+}
